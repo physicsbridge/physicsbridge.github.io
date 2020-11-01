@@ -17,6 +17,7 @@ plugins:
 - jekyll-default-layout
 - jekyll-feed
 - jemoji
+- jekyll-remote-theme
 
 # Site settings
 url: 'https://physicsbridge.github.io'
@@ -25,8 +26,6 @@ title: 'Physics Bridge'
 description: 'Learn Physics'
 permalink: pretty
 logo: "/asserts/img/logo.png"
-theme: alembic-jekyll-theme
-
 
 # Pagination
 paginate: 5
