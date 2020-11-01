@@ -22,10 +22,10 @@ plugins:
 # Site settings
 url: 'https://physicsbridge.github.io'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Physics Bridge'
+description: 'Learn Physics'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "/asserts/img/logo.png"
 
 # Pagination
 paginate: 5
@@ -35,10 +35,10 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: About
-  url: /about/
-- title: Blog
-  url: /blog/
+# - title: About
+#   url: /about/
+# - title: Blog
+#   url: /blog/
 
 # Footer nav
 navigation_footer:
